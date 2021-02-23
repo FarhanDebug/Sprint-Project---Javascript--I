@@ -18,4 +18,6 @@ myFunction();
 
 // Explanation (Min 50 words): 
 
+The nested function is reaching outside of the scope variable internal. 
+
 

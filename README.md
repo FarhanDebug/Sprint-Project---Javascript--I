@@ -24,11 +24,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your group lead
 
+
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
+    .map does not munipulate the original array and also returns a new array.
+    .foreach will return the value and excute the callback function once for each array. 
 
 2. Explain the difference between a callback and a higher order function.
+HOF is the function that recieves the callback. It is a function that can be used a parameter to another function.
+CB has
 
-3. What is closure?
+
+
+3. What is closure? 
+Closures give us ability to put functions togthere. It also allows functions to access outside to scope. 
 
 4. Describe the four rules of the 'this' keyword.
 
